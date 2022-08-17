@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    background-color:#7fffd4;
+    color: #0f636d;
+    justify-content: space-between;
+}
+
+.header .logo img{
+    width: 80px;
+}
+
+.header .logo{
+    margin-left: 1em;
+}
+
+.header a{
+    color: #3ce0d5;
+}
+
+.header nav{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    margin-right: 1em;
+}
