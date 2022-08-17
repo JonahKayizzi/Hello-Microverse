@@ -1,8 +1,11 @@
 .header{
     display: flex;
     background-color:#7fffd4;
-    color: #0f636d;
     justify-content: space-between;
+}
+
+h1{
+    color: #0f636d;
 }
 
 .header .logo img{
